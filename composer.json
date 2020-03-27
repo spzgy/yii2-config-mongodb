@@ -10,6 +10,11 @@
             "name": "Joe 2师兄",
             "email": "spzgy03@gmail.com",
             "homepage": "https://github.com/spzgy/yii2-config-mongodb"
+        },
+        {
+            "name": "Abhimanyu Saharan",
+            "email": "abhimanyu@teamvulcans.com",
+            "homepage": "http://abhi1693.github.io/yii2-config"
         }
     ],
     "support": {
