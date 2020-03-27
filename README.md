@@ -15,4 +15,4 @@ Refer [Wiki](https://github.com/spzgy/yii2-config-mongodb/wiki) for documentatio
 
 ## License
 
-Yii2-config is released under the MIT License. See the bundled [LICENSE](LICENSE) for details.
+Yii2-Config-Mongodb is released under the MIT License. See the bundled [LICENSE](LICENSE) for details.
