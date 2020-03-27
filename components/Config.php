@@ -1,6 +1,6 @@
 <?php
 
-namespace abhimanyu\config\components;
+namespace spzgy\config\components;
 
 use yii\base\Component;
 use yii\base\Exception;

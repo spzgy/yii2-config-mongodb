@@ -1,11 +1,16 @@
 {
-    "name": "abhi1693/yii2-config",
-    "description": "Yii2 manage configuration from database",
+    "name": "spzgy/yii2-config-mongodb",
+    "description": "Yii2 manage configuration from mongodb",
     "version": "1.0.0",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"," config"],
+    "keywords": ["yii2","extension"," config"," mongodb"],
     "license": "MIT License",
     "authors": [
+        {
+            "name": "Joe 2师兄",
+            "email": "spzgy03@gmail.com",
+            "homepage": "https://github.com/spzgy/yii2-config-mongodb"
+        },
         {
             "name": "Abhimanyu Saharan",
             "email": "abhimanyu@teamvulcans.com",
@@ -13,15 +18,15 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/abhi1693/yii2-config/issues?state=open",
-        "source": "https://github.com/abhi1693/yii2-config/"
+        "issues": "https://github.com/spzgy/yii2-config-mongodb/issues?state=open",
+        "source": "https://github.com/spzgy/yii2-config-mongodb/"
     },
     "require": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
-            "abhimanyu\\config\\": ""
+            "spzgy\\config\\": ""
         }
     }
 }
