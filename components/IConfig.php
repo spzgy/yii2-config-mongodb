@@ -1,6 +1,6 @@
 <?php
 
-namespace abhimanyu\config\components;
+namespace spzgy\config\components;
 
 /**
  * @author Abhimanyu Saharan <abhimanyu@teamvulcans.com>
